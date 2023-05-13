@@ -1,0 +1,63 @@
+.App{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+body{
+    margin:30px 50px;
+    text-align: center;
+}
+button{
+    padding: 6px;
+    border-radius: 5px ;
+    width:74px;
+    font-weight: bolder;
+    font-size: 20px;
+    /* margin-left:50px; */
+    background-color:rgb(11, 154, 236);
+}
+.clickk{
+    padding: 6px;
+    border-radius: 5px;
+    width:74px;
+    font-weight: bolder;
+    font-size: 15px;
+    /* margin-left:50px; */
+    background-color:rgb(241, 233, 243);
+}
+.countH{
+    background-color: rgb(202, 51, 51);
+    width:250px;
+    text-align: center;
+    padding-bottom: 10px;
+    /* border: 3px solid black; */
+    border-radius: 4px;
+    margin-right: 70px;
+    box-shadow: 4px 4px 4px gray;
+}
+.countC{
+    background-color: rgb(7, 251, 125);
+    width:250px;
+    text-align: center;
+    padding-bottom: 14px;
+    padding-top: 10px;
+    /* border: 3px solid black; */
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px gray;
+
+}
+.info{
+    letter-spacing: 0.020rem;
+    margin-right: 50px;
+    text-align: left;
+}
+
+.pure{
+    margin-left: 70px;
+}
+.pdiv{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
